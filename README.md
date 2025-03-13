@@ -19,7 +19,6 @@ If you use this work, please cite our paper ($${\color{red} Not \space yet \spac
 ## 📂 Repository Structure
 ```
 ├── notebooks/          # Jupyter notebooks for analysis
-├── models/             # Trained models
 ├── requirements.txt    # Required dependencies
 ├── README.md           # Project documentation
 ```
