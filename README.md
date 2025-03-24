@@ -1,4 +1,4 @@
-# A Hybrid Approach for Breast Cancer Classification Using Imaging and Metadata
+# A multimodal deep learning model for the classification of breast cancer subtypes
 
 
 ## 📝 Overview
