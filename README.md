@@ -1,4 +1,4 @@
-# A multimodal deep learning model for the classification of breast cancer subtypes
+# A Multimodal Deep Learning Model for the Classification of Breast Cancer Subtypes
 
 
 ## 📝 Overview
