@@ -11,10 +11,21 @@ This repository contains the code supporting our research paper on **Breast Canc
 - comparative analysis between unimodal (images only) and hybrid models revealed the substantial benefits of integrating clinical metadata.
 
 ## 📄 Paper
-If you use this work, please cite our paper ($${\color{red} Not \space yet \space published}$$):
-> **Title:** A Hybrid Approach for Breast Cancer Classification Using Imaging and Metadata
+If you use this work, please cite our paper:
+> **Title:** A Multimodal Deep Learning Model for the Classification of Breast Cancer Subtypes
 > **Authors:** Chaima Ben Rabah, Aamenah Sattar, Ahmed Ibrahim, and Ahmed Serag
-> **Journal:** [Link to Paper](https://your-paper-link.com)
+> **Journal:** [Link to Paper]([https://your-paper-link.com](https://www.mdpi.com/2075-4418/15/8/995))
+> **Bibtex:**
+@article{ben2025multimodal,
+  title={A Multimodal Deep Learning Model for the Classification of Breast Cancer Subtypes},
+  author={Ben Rabah, Chaima and Sattar, Aamenah and Ibrahim, Ahmed and Serag, Ahmed},
+  journal={Diagnostics},
+  volume={15},
+  number={8},
+  pages={995},
+  year={2025},
+  publisher={MDPI}
+}
 
 ## 📂 Repository Structure
 ```
