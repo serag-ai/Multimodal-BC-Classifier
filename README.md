@@ -17,10 +17,10 @@ If you use this work, please cite our paper:
 
 > **Authors:** Chaima Ben Rabah, Aamenah Sattar, Ahmed Ibrahim, and Ahmed Serag
 
-> **Journal:** [Link to Paper]([https://your-paper-link.com](https://www.mdpi.com/2075-4418/15/8/995))
+> **Journal:** [Link to Paper]([https://your-paper-link.com](https://www.mdpi.com/2075-4418/15/8/995)
 
 > **Bibtex:**
-
+```
 @article{ben2025multimodal,
   title={A Multimodal Deep Learning Model for the Classification of Breast Cancer Subtypes},
   author={Ben Rabah, Chaima and Sattar, Aamenah and Ibrahim, Ahmed and Serag, Ahmed},
@@ -31,6 +31,7 @@ If you use this work, please cite our paper:
   year={2025},
   publisher={MDPI}
 }
+```
 
 ## 📂 Repository Structure
 ```
