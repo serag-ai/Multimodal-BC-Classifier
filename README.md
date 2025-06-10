@@ -42,7 +42,7 @@ If you use this work, please cite our paper:
 
 ## 🚀 Important
 
-We used the CMMD dataset, a collection of breast mammography images and the corresponding clinical data for the subjects. Both images and data are publicly available in The Cancer Imaging Archive (TCIA) at [Link to dataset](https://www.cancerimagingarchive.net/). If you are interested in the same subsets we used for training, validation and testing , please send a request to the corresponding author indicated in the paper.
+We used the CMMD dataset, a collection of breast mammography images and the corresponding clinical data for the subjects. Both images and data are publicly available in The Cancer Imaging Archive (TCIA) at [Link to dataset](https://www.cancerimagingarchive.net/).
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit a pull request or open an issue.
